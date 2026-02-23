@@ -1,0 +1,5 @@
+cd C:\Users\loldo\Pictures\travail\2e_Année\Dona Boulangerie\dev-react\src
+npm run build
+npm run dev
+cd C:\Users\loldo\Pictures\travail\2e_Année\Dona Boulangerie\dev-react\back
+cross-env node server.js
